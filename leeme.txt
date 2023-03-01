@@ -1,0 +1,24 @@
+Pong [Juego HTML5]
+autor: Pablo El�as Pineda
+
+version: 1.0.0
+Hecho:
+- Input del teclado
+- Sonido
+- Uno y dos juadores
+
+Falta:
+- Pantalla completa [hecho(v:1.1.0)]
+- Compatibilidad con m�viles
+- Sonido de fondo
+- Im�genes [hecho(v:1.1.0)]
+
+version: 1.1.0
+Hecho:
+- javascrpt en archivos externos
+- efecto de sonido mejorado
+- agregado imagen de fondo
+- agregado imagenes a los jugadores
+
+Falta:
+- compatibilidad con m�viles
